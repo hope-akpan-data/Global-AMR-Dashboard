@@ -1,43 +1,36 @@
 # Research Log
 
-## Day 1
+## Project Title
 
-Created project repository.
+WHO GLASS Antimicrobial Resistance Surveillance Dashboard
 
-Set up:
+## Objective
 
-- Project folder
-- VS Code workspace
-- Project structure
+To investigate global antimicrobial resistance patterns among major bloodstream pathogens using WHO GLASS surveillance data.
 
-Next task:
+## Data Source
 
-Locate and download WHO GLASS antimicrobial resistance datasets.
+WHO GLASS 2023
 
-# Research Log
+## Pathogens Included
 
-## Day 1
-
-Project Title:
-Nigeria AMR Dashboard
-
-Objective:
-Investigate antimicrobial resistance trends in Nigeria and compare them with global surveillance data.
-
-Target Organisms:
 - Escherichia coli
-- Klebsiella pneumoniae
-- Staphylococcus aureus
-- Pseudomonas aeruginosa
+- Klebsiella spp.
+- Salmonella spp.
+- Streptococcus pneumoniae
 
-Progress:
-- Created repository
-- Created folder structure
-- Installed Git
-- Installed Python
-- Created virtual environment
+## Analysis Completed
 
-Next Steps:
-- Locate WHO GLASS datasets
-- Explore available variables
-- Design cleaning workflow
+- Data cleaning
+- Dataset harmonization
+- Pathogen comparison
+- Antibiotic comparison
+- Heatmap visualization
+- Surveillance coverage analysis
+
+## Future Work
+
+- Multi-year trend analysis
+- Nigeria-specific comparison
+- WHO region comparison
+- Integration with NCDC AMR reports

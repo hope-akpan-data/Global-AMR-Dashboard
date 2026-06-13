@@ -1,38 +1,89 @@
-# Antimicrobial Resistance Trends in Priority Bacterial Pathogens:A Comparative Analysis of Nigeria and Global WHO GLASS Data
+# Antimicrobial Resistance Trends in Priority Bacterial Pathogens: A Comparative Analysis of Nigeria and Global WHO GLASS Data
 
+A WHO GLASS-based antimicrobial resistance surveillance project analyzing global resistance patterns among clinically important bloodstream pathogens.
 
 ## Project Overview
 
-This project investigates antimicrobial resistance (AMR) trends in Nigeria and compares them with global surveillance data from WHO GLASS.
+Antimicrobial resistance (AMR) is one of the greatest threats to global health.
 
-## Research Question
-
-How do antimicrobial resistance patterns in Nigeria compare with global trends among major bacterial pathogens?
-
-## Target Organisms
+This project analyzes WHO GLASS 2023 surveillance data for:
 
 - Escherichia coli
-- Klebsiella pneumoniae
-- Staphylococcus aureus
-- Pseudomonas aeruginosa
+- Klebsiella spp.
+- Salmonella spp.
+- Streptococcus pneumoniae
 
-## Research Interests
+The objective is to explore global resistance trends, identify highly resistant pathogens, and evaluate antibiotic effectiveness using reproducible Python workflows.
 
-This project supports future applications in:
+---
 
-- Infection Biology
-- Infectiology and Vaccinology
-- Molecular Biology
-- Microbial Genomics
-- Antimicrobial Resistance Research
+## Research Questions
 
-## Tools
+1. Which pathogen demonstrates the highest resistance burden?
+
+2. Which antibiotics show the highest resistance globally?
+
+3. How do resistance patterns differ across pathogens?
+
+4. How extensive is global surveillance coverage?
+
+---
+
+## Data Source
+
+World Health Organization (WHO)
+
+Global Antimicrobial Resistance and Use Surveillance System (GLASS)
+
+2023 Surveillance Data
+
+---
+
+## Methods
+
+- Data extraction from WHO GLASS
+- Data cleaning using Pandas
+- Exploratory Data Analysis (EDA)
+- Statistical summarization
+- Scientific visualization using Matplotlib and Seaborn
+
+---
+
+## Key Findings
+
+- Klebsiella showed the highest resistance burden.
+- Ampicillin exhibited the highest median resistance.
+- Carbapenems generally retained stronger effectiveness.
+- Resistance patterns varied significantly across pathogens.
+
+---
+
+## Technologies Used
 
 - Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git
 - GitHub
-- Excel
-- Looker Studio
 
-## Status
+---
 
-Project setup phase.
+## Figures
+
+### Average Resistance by Pathogen
+
+![Pathogen Resistance](Figures/pathogen_resistance.png)
+
+### Top Resistant Antibiotics
+
+![Top Antibiotics](Figures/top_resistant_antibiotics.png)
+
+### Resistance Heatmap
+
+![Heatmap](Figures/amr_heatmap.png)
+
+### Reporting Coverage
+
+![Coverage](Figures/reporting_coverage.png)

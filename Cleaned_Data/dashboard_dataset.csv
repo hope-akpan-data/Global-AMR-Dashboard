@@ -1,0 +1,41 @@
+Antibiotic,Median_Resistance,Country_Count,PathogenName
+Ampicillin,63.974404928,2,Escherichia coli
+Cefepime,32.764505119,67,Escherichia coli
+Cefotaxime,43.147991681,72,Escherichia coli
+Ceftazidime,33.823529412,81,Escherichia coli
+Ceftriaxone,50.947867299,77,Escherichia coli
+Ciprofloxacin,43.193777584,92,Escherichia coli
+Co-trimoxazole,58.766458766,61,Escherichia coli
+Colistin,0.724637681,45,Escherichia coli
+Doripenem,2.131060202,3,Escherichia coli
+Ertapenem,2.330508475,67,Escherichia coli
+Imipenem,2.521008403,81,Escherichia coli
+Levofloxacin,41.996233522,53,Escherichia coli
+Meropenem,1.958884444,86,Escherichia coli
+Third generation cephalosporins resistance,45.080285459,92,Escherichia coli
+Cefepime,57.37704918,69,Klebsiella
+Cefotaxime,66.7752443,69,Klebsiella
+Ceftazidime,58.73015873,83,Klebsiella
+Ceftriaxone,69.588313413,77,Klebsiella
+Ciprofloxacin,53.541566019,92,Klebsiella
+Co-trimoxazole,64.705882353,61,Klebsiella
+Colistin,6.808838643,48,Klebsiella
+Doripenem,24.21875,5,Klebsiella
+Ertapenem,18.070652174,64,Klebsiella
+Imipenem,18.920972644,78,Klebsiella
+Levofloxacin,49.932493249,50,Klebsiella
+Meropenem,17.790920716,86,Klebsiella
+Cefotaxime,2.932363014,40,Salmonella
+Ceftazidime,2.111324376,31,Salmonella
+Ceftriaxone,4.396966721,40,Salmonella
+Ciprofloxacin,18.518518519,53,Salmonella
+Doripenem,0.0,1,Salmonella
+Ertapenem,0.0,19,Salmonella
+Imipenem,0.0,26,Salmonella
+Levofloxacin,19.975134687,14,Salmonella
+Meropenem,0.0,38,Salmonella
+Cefotaxime,0.0,43,Streptococcus
+Ceftriaxone,0.0,50,Streptococcus
+Co-trimoxazole,33.333333333,29,Streptococcus
+Oxacillin,17.647058824,33,Streptococcus
+Penicillin G,4.446640316,58,Streptococcus

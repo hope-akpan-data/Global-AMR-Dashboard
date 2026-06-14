@@ -1,4 +1,4 @@
-# Antimicrobial Resistance Trends in Priority Bacterial Pathogens: A Comparative Analysis of Nigeria and Global WHO GLASS Data
+# Global Antimicrobial Resistance Trends in Priority Bacterial Pathogens using WHO GLASS 2023 Surveillance Data
 
 A WHO GLASS-based antimicrobial resistance surveillance project analyzing global resistance patterns among clinically important bloodstream pathogens.
 
